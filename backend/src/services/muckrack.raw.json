@@ -1,0 +1,750 @@
+{
+    "trend_data": {
+        "terms": [
+            {
+                "name": "\"crocs\"",
+                "type": "text",
+                "key": "\"crocs\"",
+                "text": "\"crocs\""
+            }
+        ],
+        "daterange_starts": "2020-12-01",
+        "daterange_ends": "2025-02-24",
+        "total": 474507,
+        "data": {
+            "\"crocs\"": {
+                "total": 474507,
+                "series": [
+                    [
+                        1606780800000,
+                        2265
+                    ],
+                    [
+                        1609459200000,
+                        2602
+                    ],
+                    [
+                        1612137600000,
+                        1996
+                    ],
+                    [
+                        1614556800000,
+                        2223
+                    ],
+                    [
+                        1617235200000,
+                        3089
+                    ],
+                    [
+                        1619827200000,
+                        3961
+                    ],
+                    [
+                        1622505600000,
+                        3882
+                    ],
+                    [
+                        1625097600000,
+                        2175
+                    ],
+                    [
+                        1627776000000,
+                        1657
+                    ],
+                    [
+                        1630454400000,
+                        1886
+                    ],
+                    [
+                        1633046400000,
+                        2694
+                    ],
+                    [
+                        1635724800000,
+                        3514
+                    ],
+                    [
+                        1638316800000,
+                        4273
+                    ],
+                    [
+                        1640995200000,
+                        2553
+                    ],
+                    [
+                        1643673600000,
+                        3763
+                    ],
+                    [
+                        1646092800000,
+                        3307
+                    ],
+                    [
+                        1648771200000,
+                        3734
+                    ],
+                    [
+                        1651363200000,
+                        4632
+                    ],
+                    [
+                        1654041600000,
+                        3719
+                    ],
+                    [
+                        1656633600000,
+                        5119
+                    ],
+                    [
+                        1659312000000,
+                        5363
+                    ],
+                    [
+                        1661990400000,
+                        5342
+                    ],
+                    [
+                        1664582400000,
+                        5222
+                    ],
+                    [
+                        1667260800000,
+                        8359
+                    ],
+                    [
+                        1669852800000,
+                        5439
+                    ],
+                    [
+                        1672531200000,
+                        5614
+                    ],
+                    [
+                        1675209600000,
+                        7848
+                    ],
+                    [
+                        1677628800000,
+                        19115
+                    ],
+                    [
+                        1680307200000,
+                        12959
+                    ],
+                    [
+                        1682899200000,
+                        12452
+                    ],
+                    [
+                        1685577600000,
+                        15029
+                    ],
+                    [
+                        1688169600000,
+                        18704
+                    ],
+                    [
+                        1690848000000,
+                        14501
+                    ],
+                    [
+                        1693526400000,
+                        13914
+                    ],
+                    [
+                        1696118400000,
+                        56994
+                    ],
+                    [
+                        1698796800000,
+                        17008
+                    ],
+                    [
+                        1701388800000,
+                        10859
+                    ],
+                    [
+                        1704067200000,
+                        10815
+                    ],
+                    [
+                        1706745600000,
+                        11939
+                    ],
+                    [
+                        1709251200000,
+                        11283
+                    ],
+                    [
+                        1711929600000,
+                        12148
+                    ],
+                    [
+                        1714521600000,
+                        13800
+                    ],
+                    [
+                        1717200000000,
+                        10538
+                    ],
+                    [
+                        1719792000000,
+                        12549
+                    ],
+                    [
+                        1722470400000,
+                        18947
+                    ],
+                    [
+                        1725148800000,
+                        11994
+                    ],
+                    [
+                        1727740800000,
+                        17234
+                    ],
+                    [
+                        1730419200000,
+                        9948
+                    ],
+                    [
+                        1733011200000,
+                        8924
+                    ],
+                    [
+                        1735689600000,
+                        12556
+                    ],
+                    [
+                        1738368000000,
+                        14066
+                    ]
+                ],
+                "coverage_comparison_series": [
+                    [
+                        1606780800000,
+                        1317
+                    ],
+                    [
+                        1609459200000,
+                        1707
+                    ],
+                    [
+                        1612137600000,
+                        1125
+                    ],
+                    [
+                        1614556800000,
+                        1231
+                    ],
+                    [
+                        1617235200000,
+                        1565
+                    ],
+                    [
+                        1619827200000,
+                        1847
+                    ],
+                    [
+                        1622505600000,
+                        2119
+                    ],
+                    [
+                        1625097600000,
+                        1301
+                    ],
+                    [
+                        1627776000000,
+                        1062
+                    ],
+                    [
+                        1630454400000,
+                        1061
+                    ],
+                    [
+                        1633046400000,
+                        1360
+                    ],
+                    [
+                        1635724800000,
+                        1625
+                    ],
+                    [
+                        1638316800000,
+                        1553
+                    ],
+                    [
+                        1640995200000,
+                        1367
+                    ],
+                    [
+                        1643673600000,
+                        1667
+                    ],
+                    [
+                        1646092800000,
+                        1587
+                    ],
+                    [
+                        1648771200000,
+                        1871
+                    ],
+                    [
+                        1651363200000,
+                        2162
+                    ],
+                    [
+                        1654041600000,
+                        2121
+                    ],
+                    [
+                        1656633600000,
+                        2475
+                    ],
+                    [
+                        1659312000000,
+                        2207
+                    ],
+                    [
+                        1661990400000,
+                        2144
+                    ],
+                    [
+                        1664582400000,
+                        2218
+                    ],
+                    [
+                        1667260800000,
+                        2348
+                    ],
+                    [
+                        1669852800000,
+                        2504
+                    ],
+                    [
+                        1672531200000,
+                        2352
+                    ],
+                    [
+                        1675209600000,
+                        3165
+                    ],
+                    [
+                        1677628800000,
+                        3875
+                    ],
+                    [
+                        1680307200000,
+                        3861
+                    ],
+                    [
+                        1682899200000,
+                        4487
+                    ],
+                    [
+                        1685577600000,
+                        4992
+                    ],
+                    [
+                        1688169600000,
+                        6317
+                    ],
+                    [
+                        1690848000000,
+                        4905
+                    ],
+                    [
+                        1693526400000,
+                        5172
+                    ],
+                    [
+                        1696118400000,
+                        6677
+                    ],
+                    [
+                        1698796800000,
+                        5541
+                    ],
+                    [
+                        1701388800000,
+                        4376
+                    ],
+                    [
+                        1704067200000,
+                        4346
+                    ],
+                    [
+                        1706745600000,
+                        4711
+                    ],
+                    [
+                        1709251200000,
+                        5034
+                    ],
+                    [
+                        1711929600000,
+                        4663
+                    ],
+                    [
+                        1714521600000,
+                        4264
+                    ],
+                    [
+                        1717200000000,
+                        4089
+                    ],
+                    [
+                        1719792000000,
+                        4639
+                    ],
+                    [
+                        1722470400000,
+                        4902
+                    ],
+                    [
+                        1725148800000,
+                        4396
+                    ],
+                    [
+                        1727740800000,
+                        5329
+                    ],
+                    [
+                        1730419200000,
+                        3986
+                    ],
+                    [
+                        1733011200000,
+                        3748
+                    ],
+                    [
+                        1735689600000,
+                        3621
+                    ],
+                    [
+                        1738368000000,
+                        3730
+                    ]
+                ],
+                "search_url": "/search/results?q=%22crocs%22&daterange_starts=12%2F01%2F2020&daterange_ends=02%2F24%2F2025&daterange_preset=13&result_type=article",
+                "top_authors": [
+                    {
+                        "id": 14623747,
+                        "name": "Jordan C. Woika",
+                        "url": "/jordan-c-woika",
+                        "avatar": "https://media.muckrack.com/profile/images/14623747/jordan-c-woika.jpeg.48x48_q85_autocrop_crop-smart.jpg",
+                        "title": "Freelance Writer, Writer",
+                        "media_outlets": [
+                            {
+                                "name": "Freelance",
+                                "url": "/media-outlet/freelance"
+                            },
+                            {
+                                "name": "Static Media",
+                                "url": "/media-outlet/static-media"
+                            }
+                        ],
+                        "count": 1087
+                    },
+                    {
+                        "id": 1345117,
+                        "name": "Carrie McCabe",
+                        "url": "/carrie-mccabe",
+                        "avatar": "https://media.muckrack.com/profile/images/1345117/0bbc6c60-6d3b-11ee-9e7f-2.webp.48x48_q85_autocrop_crop-smart.jpg",
+                        "title": "Podcast Co-Host, Senior Deals Writer",
+                        "media_outlets": [
+                            {
+                                "name": "Yahoo Life",
+                                "url": "/media-outlet/yahoolifestyle"
+                            },
+                            {
+                                "name": "Ain't It Scary? with Sean & Carrie",
+                                "url": "/podcast/aint-it-scary-with-sean-carrie/"
+                            }
+                        ],
+                        "count": 657
+                    },
+                    {
+                        "id": 2495024,
+                        "name": "Kim Johansen",
+                        "url": "/kim-johansen",
+                        "avatar": "https://cdn.muckrack.com/static/images/icon-user-circle.e3d7f0e7.png",
+                        "title": "Culture and Entertainment Manager",
+                        "media_outlets": [
+                            {
+                                "name": "Barometern",
+                                "url": "/media-outlet/barometern"
+                            }
+                        ],
+                        "count": 626
+                    },
+                    {
+                        "id": 1275245,
+                        "name": "Latisha Jones",
+                        "url": "/latisha-jones",
+                        "avatar": "https://cdn.muckrack.com/static/images/icon-user-circle.e3d7f0e7.png",
+                        "title": "Journalist",
+                        "media_outlets": [
+                            {
+                                "name": "Daily Political",
+                                "url": "/media-outlet/dailypolitical"
+                            }
+                        ],
+                        "count": 623
+                    },
+                    {
+                        "id": 776016,
+                        "name": "Jennifer Manfrin",
+                        "url": "/jennifer-manfrin",
+                        "avatar": "https://media.muckrack.com/profile/images/776016/jennifermanfrin-3fb687.webp.48x48_q85_autocrop_crop-smart.jpg",
+                        "title": "Writer and Researcher",
+                        "media_outlets": [
+                            {
+                                "name": "BestReviews",
+                                "url": "/media-outlet/bestreviews"
+                            }
+                        ],
+                        "count": 577
+                    }
+                ],
+                "top_media_outlets": [
+                    {
+                        "id": 3305928,
+                        "name": "DealsList",
+                        "url": "/media-outlet/dealslist",
+                        "count": 15858,
+                        "avatar": "",
+                        "media_types": [
+                            {
+                                "name": "Online/Digital"
+                            }
+                        ],
+                        "city": "",
+                        "state": null,
+                        "country": "US"
+                    },
+                    {
+                        "id": 92234,
+                        "name": "American Banking and Market News",
+                        "url": "/media-outlet/americanbankingnews",
+                        "count": 5710,
+                        "avatar": "",
+                        "media_types": [
+                            {
+                                "name": "Financial/Market news"
+                            }
+                        ],
+                        "city": "Sioux Falls",
+                        "state": "South Dakota",
+                        "country": "US"
+                    },
+                    {
+                        "id": 267059,
+                        "name": "Zolmax",
+                        "url": "/media-outlet/zolmax",
+                        "count": 5390,
+                        "avatar": "",
+                        "media_types": [
+                            {
+                                "name": "Financial/Market news"
+                            }
+                        ],
+                        "city": "Sioux Falls",
+                        "state": "South Dakota",
+                        "country": "US"
+                    },
+                    {
+                        "id": 50447,
+                        "name": "Defense World",
+                        "url": "/media-outlet/defenseworld",
+                        "count": 5198,
+                        "avatar": "",
+                        "media_types": [
+                            {
+                                "name": "Online/Digital"
+                            }
+                        ],
+                        "city": "Bangalore",
+                        "state": "",
+                        "country": "IN"
+                    },
+                    {
+                        "id": 9110785,
+                        "name": "ETF Daily News",
+                        "url": "/media-outlet/etfdailynews",
+                        "count": 4825,
+                        "avatar": "",
+                        "media_types": [
+                            {
+                                "name": "Financial/Market news"
+                            }
+                        ],
+                        "city": "",
+                        "state": "New Jersey",
+                        "country": "US"
+                    }
+                ]
+            }
+        },
+        "top_authors": [
+            {
+                "id": 14623747,
+                "name": "Jordan C. Woika",
+                "url": "/jordan-c-woika",
+                "avatar": "https://media.muckrack.com/profile/images/14623747/jordan-c-woika.jpeg.48x48_q85_autocrop_crop-smart.jpg",
+                "title": "Freelance Writer, Writer",
+                "media_outlets": [
+                    {
+                        "name": "Freelance",
+                        "url": "/media-outlet/freelance"
+                    },
+                    {
+                        "name": "Static Media",
+                        "url": "/media-outlet/static-media"
+                    }
+                ],
+                "count": 1087
+            },
+            {
+                "id": 1345117,
+                "name": "Carrie McCabe",
+                "url": "/carrie-mccabe",
+                "avatar": "https://media.muckrack.com/profile/images/1345117/0bbc6c60-6d3b-11ee-9e7f-2.webp.48x48_q85_autocrop_crop-smart.jpg",
+                "title": "Podcast Co-Host, Senior Deals Writer",
+                "media_outlets": [
+                    {
+                        "name": "Yahoo Life",
+                        "url": "/media-outlet/yahoolifestyle"
+                    },
+                    {
+                        "name": "Ain't It Scary? with Sean & Carrie",
+                        "url": "/podcast/aint-it-scary-with-sean-carrie/"
+                    }
+                ],
+                "count": 657
+            },
+            {
+                "id": 2495024,
+                "name": "Kim Johansen",
+                "url": "/kim-johansen",
+                "avatar": "https://cdn.muckrack.com/static/images/icon-user-circle.e3d7f0e7.png",
+                "title": "Culture and Entertainment Manager",
+                "media_outlets": [
+                    {
+                        "name": "Barometern",
+                        "url": "/media-outlet/barometern"
+                    }
+                ],
+                "count": 626
+            },
+            {
+                "id": 1275245,
+                "name": "Latisha Jones",
+                "url": "/latisha-jones",
+                "avatar": "https://cdn.muckrack.com/static/images/icon-user-circle.e3d7f0e7.png",
+                "title": "Journalist",
+                "media_outlets": [
+                    {
+                        "name": "Daily Political",
+                        "url": "/media-outlet/dailypolitical"
+                    }
+                ],
+                "count": 623
+            },
+            {
+                "id": 776016,
+                "name": "Jennifer Manfrin",
+                "url": "/jennifer-manfrin",
+                "avatar": "https://media.muckrack.com/profile/images/776016/jennifermanfrin-3fb687.webp.48x48_q85_autocrop_crop-smart.jpg",
+                "title": "Writer and Researcher",
+                "media_outlets": [
+                    {
+                        "name": "BestReviews",
+                        "url": "/media-outlet/bestreviews"
+                    }
+                ],
+                "count": 577
+            }
+        ],
+        "top_media_outlets": [
+            {
+                "id": 3305928,
+                "name": "DealsList",
+                "url": "/media-outlet/dealslist",
+                "count": 15858,
+                "avatar": "",
+                "media_types": [
+                    {
+                        "name": "Online/Digital"
+                    }
+                ],
+                "city": "",
+                "state": null,
+                "country": "US"
+            },
+            {
+                "id": 92234,
+                "name": "American Banking and Market News",
+                "url": "/media-outlet/americanbankingnews",
+                "count": 5710,
+                "avatar": "",
+                "media_types": [
+                    {
+                        "name": "Financial/Market news"
+                    }
+                ],
+                "city": "Sioux Falls",
+                "state": "South Dakota",
+                "country": "US"
+            },
+            {
+                "id": 267059,
+                "name": "Zolmax",
+                "url": "/media-outlet/zolmax",
+                "count": 5390,
+                "avatar": "",
+                "media_types": [
+                    {
+                        "name": "Financial/Market news"
+                    }
+                ],
+                "city": "Sioux Falls",
+                "state": "South Dakota",
+                "country": "US"
+            },
+            {
+                "id": 50447,
+                "name": "Defense World",
+                "url": "/media-outlet/defenseworld",
+                "count": 5198,
+                "avatar": "",
+                "media_types": [
+                    {
+                        "name": "Online/Digital"
+                    }
+                ],
+                "city": "Bangalore",
+                "state": "",
+                "country": "IN"
+            },
+            {
+                "id": 9110785,
+                "name": "ETF Daily News",
+                "url": "/media-outlet/etfdailynews",
+                "count": 4825,
+                "avatar": "",
+                "media_types": [
+                    {
+                        "name": "Financial/Market news"
+                    }
+                ],
+                "city": "",
+                "state": "New Jersey",
+                "country": "US"
+            }
+        ],
+        "partial_data_end": true,
+        "partial_data_start": false,
+        "timed_out": false
+    }
+}
