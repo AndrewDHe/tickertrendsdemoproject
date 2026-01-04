@@ -44,10 +44,11 @@ CREATE DATABASE tickertrends;
 
 ## Backend Setup
 Go to backend directory:
-```bash
+
 cd backend
 
 Install dependencies:
+
 npm init -y  
 npm install express axios cors node-cron
 npm install typeorm reflect-metadata pg 
@@ -60,10 +61,12 @@ npm install -D \
 npx tsc –init 
 
 Start backend server:
+
 cd backend
 npx ts-node-dev src/index.ts
 
 Backend runs on:
+
 http://localhost:3001
 
 ---
