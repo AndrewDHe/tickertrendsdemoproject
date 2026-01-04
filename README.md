@@ -44,6 +44,7 @@ CREATE DATABASE tickertrends;
 
 ## Backend Setup
 Go to backend directory:
+```bash
 cd backend
 
 Install dependencies:
