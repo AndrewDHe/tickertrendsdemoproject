@@ -132,4 +132,6 @@ The endpoint may return 403
 This project handles failures gracefully
 Stored data remains usable even if refresh fails
 
+---
+
 Thanks
