@@ -77,17 +77,25 @@ http://localhost:3001
 
 ## Frontend Setup
 Go to frontend directory:
+```
 cd frontend
+```
 
 Install dependencies:
+```
 npx create-next-app@latest frontend –typescript
+```
 
 Start frontend server:
+```
 cd frontend
 npm run dev
+```
 
 Frontend runs on:
+```
 http://localhost:3000
+```
 
 ---
 
