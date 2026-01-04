@@ -44,7 +44,7 @@ CREATE DATABASE tickertrends;
 
 Go to backend directory:
 cd backend
-```
+
 Install dependencies:
 npm init -y  
 npm install express axios cors node-cron
@@ -56,11 +56,11 @@ npm install -D \
   @types/node-cron \
   @types/pg
 npx tsc –init 
-```
+
 Start backend server:
 cd backend
 npx ts-node-dev src/index.ts
-```
+
 Backend runs on:
 http://localhost:3001
 
@@ -69,14 +69,14 @@ http://localhost:3001
 ## Frontend Setup
 Go to frontend directory:
 cd frontend
-```
+
 Install dependencies:
 npx create-next-app@latest frontend –typescript
-```
+
 Start frontend server:
 cd frontend
 npm run dev
-```
+
 Frontend runs on:
 http://localhost:3000
 
