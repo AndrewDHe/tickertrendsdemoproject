@@ -43,7 +43,6 @@ CREATE DATABASE tickertrends;
 ---
 
 ## Backend Setup
-
 Go to backend directory:
 cd backend
 
