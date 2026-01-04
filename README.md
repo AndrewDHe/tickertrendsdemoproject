@@ -16,24 +16,7 @@ Next.js/React/TypeScript/Recharts
 ---
 
 ## Project Structure
-tickertrends/
-├── backend/
-│   ├── src/
-│   │   ├── routes/       # Express route handlers
-│   │   ├── entity/       # TypeORM entities
-│   │   ├── services/     # External data fetching (MuckRack)
-│   │   ├── cron/         # Scheduled jobs
-│   │   └── index.ts      # Server entry
-│   └── package.json
-│
-├── frontend/
-│   ├── src/
-│   │   ├── app/           # Next.js pages
-│   │   ├── components/    # Reusable UI components
-│   │   └── lib/           # API & shared types
-│   └── package.json
-│
-└── README.md
+<img width="1214" height="574" alt="image" src="https://github.com/user-attachments/assets/c63bc369-215c-4e35-97b5-f2b474dcd568" />
 
 ---
 
