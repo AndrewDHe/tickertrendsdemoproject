@@ -1,7 +1,9 @@
 # TickerTrendsDemoProject
 
 It scrapes keyword timeseries data from **MuckRack**.
+
 It stores the data in **PostgreSQL**.
+
 It visualizes trends and growth using **Next.js**.
 
 ---
